@@ -1,7 +1,7 @@
-# CS224n
-CS224n: Natural Language Processing with Deep Learning Assignments Winter, 2017
+# Disciplina Ciência da Computação CS224n
+Processamento de Linguas Naturais usando Deep Learning - Curso de Inverno de 2017
 
-#### Requirements
+#### Requisitos de Sistema
 * Python 2.7
 * TensorFlow r1.2
 
