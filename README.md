@@ -1,5 +1,4 @@
-# Disciplina Ciência da Computação CS224n
-Processamento de Linguas Naturais usando Deep Learning - Curso de Inverno de 2017
+# Processamento de Linguas Naturais usando Deep Learning - Curso de Inverno de 2017
 
 #### Requisitos de Sistema
 * Python 2.7
